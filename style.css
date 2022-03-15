@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    background-image:url(https://www.all4officesrl.it/wp-content/uploads/2018/04/scaricare-legno-sfondo-1024x576.jpg) ;
+}
+
+#logo{
+    height: 100%;
+    vertical-align: middle;
+}
+
+#logo-container{
+    height: 100px;
+    line-height: 100px;
+}
+
+.unreads{
+    line-height: 50px;
+    height: 50px;
+}
+
+.unreads > span{
+    vertical-align: middle;
+    
+}
+.bedge{
+    display: inline-block;
+    width:50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: orange;
+    text-align: center;
+}
